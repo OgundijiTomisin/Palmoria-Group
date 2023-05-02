@@ -24,4 +24,22 @@ The following PowerBI features were incorporated;
 - Buttons, 
 - Bookmarks
 
+## Modelling
+PowerBI automatically connected related tables. The Bonus Rules table is the fact table of the model. The remaining 2 dimension tables; Emp-Data and Emp + Bonus Merged table are connected to the Bonus Rules via the common column; Department.
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/Screenshot%20(510).png)
 
+## Data Analysis and Visuals
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved1_page-0001.jpg)
+1.	From the image above, there are more males than females in the departments. Also, in all 3 regions, there are more males than females. The total number of males in the Palmoria Group is 465 while the total number of females is 441. Also, the total number of undisclosed genders is 40.
+
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved2_page-0001.jpg)
+2.	Based on the visual above, females are more hardworking than males. Males in Palmoria Group top the chart on Average, with Poor and Very Poor ratings. While the females top the chart on Good, Very Good and Not Rated Ratings.
+
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved3_page-0001.jpg)
+3.	From visual 3, males are paid more than females. The salary structure favours the males more than the females.  Males are the highest paid in all 3 regions. Males also are paid more than females in at least 7 departments. Product Management is the highest-paying department with the males earning more than the females while the Marketing department is the least-paying department. 
+
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved4_page-0001.jpg)
+4.	From visual 4, if a regulation is made that manufacturing companies pay their employees a minimum of $90,000, Palmoria Group cannot meet up with the standard because they still pay their employees below the average salary of $73,703. Also, Kaduna has the highest number of employees which is why they are the highest-paying region with Lagos having the lowest number of employees.
+
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved5_page-0005.jpg)| ![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/Screenshot%20(514).png)
+5.	Kaduna tops the table as regards the total amount to be paid by Region while the Product Management department has the highest amount to be paid per department and the Training department has the least amount to be paid. 
