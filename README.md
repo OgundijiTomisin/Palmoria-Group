@@ -25,6 +25,7 @@ The following PowerBI features were incorporated;
 - Bookmarks
 
 ## Modelling
+
 PowerBI automatically connected related tables. The Bonus Rules table is the fact table of the model. The remaining 2 dimension tables; Emp-Data and Emp + Bonus Merged table are connected to the Bonus Rules via the common column; Department.
 ![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/Screenshot%20(510).png)
 
@@ -42,14 +43,19 @@ PowerBI automatically connected related tables. The Bonus Rules table is the fac
 4.	From visual 4, if a regulation is made that manufacturing companies pay their employees a minimum of $90,000, Palmoria Group cannot meet up with the standard because they still pay their employees below the average salary of $73,703. Also, Kaduna has the highest number of employees which is why they are the highest-paying region with Lagos having the lowest number of employees.
 
 ![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/UTIVA%20PowerBI%20Project%20improved5_page-0005.jpg)| ![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/Screenshot%20(514).png)
+
 5.	Kaduna tops the table as regards the total amount to be paid by Region while the Product Management department has the highest amount to be paid per department and the Training department has the least amount to be paid. 
 
 ## Conclusion and Recommendation
+
 1.	The total number of males in the Palmoria Group is 465 while the total number of females is 441. Also, the total number of undisclosed genders is 40.
-2.	The salary structure favours males more than females ☹️  
+2.	The salary structure favours males more than females.  
 3.	Kaduna has the highest number of employees.
 
 ### Recommendation
-1.	It is good to note that the step taken by Palmoria Group to pay the bonuses of the employees based on ratings is a good decision. It can help motivate the employees, especially the males to be more hardworking. 😃
+
+1.	It is good to note that the step taken by Palmoria Group to pay the bonuses of the employees based on ratings is a good decision. It can help motivate the employees, especially the males to be more hardworking.
 2.	Palmoria Group should review salaries and standardize pay.
 3.	Palmoria Group should ensure that they are actively encouraging women to progress. They should make sure that female employees are asking for promotions and pay rises.
+
+
