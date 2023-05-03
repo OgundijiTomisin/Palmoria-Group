@@ -59,3 +59,9 @@ PowerBI automatically connected related tables. The Bonus Rules table is the fac
 3.	Palmoria Group should ensure that they are actively encouraging women to progress. They should make sure that female employees are asking for promotions and pay rises.
 
 
+
+
+
+
+# FINALLY!!! 😙 🙂
+![](https://github.com/OgundijiTomisin/Palmoria-Group/blob/main/blackboard-close-up-frame-gratitude.jpg)
